@@ -1,0 +1,10 @@
+node_modules/
+dist/
+data/
+cron
+.env
+.DS_Store
+.cortexkit
+.cursor/
+derived_player_configs.json
+innertube_cookie.txt
